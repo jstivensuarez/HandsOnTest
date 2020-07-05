@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "06UFx/s4QfAs0+Hp+7h0Obr9YItj0uvYLCHgoqbKpB3AGiZ/UO9GS6vwWhkfXRb+/7rYvXFXcnB02OnmtGiO/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ssuarez\\Desktop\\masglobal\\HandsOnTest\\HandsOnTest.Data\\HandsOnTest.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssuarez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\ssuarez\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",
+    "C:\\Users\\ssuarez\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\ssuarez\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

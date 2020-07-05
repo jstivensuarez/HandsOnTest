@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+}
+
+.employee-card {
+    width: 70%;
+}
+
+.search-btn{
+    margin-left: 25px;
+}

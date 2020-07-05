@@ -1,0 +1,17 @@
+C:\Users\ssuarez\source\repos\HandsOnTest\HandsOnTest.Configuration\bin\Debug\netcoreapp3.1\HandsOnTest.Configuration.deps.json
+C:\Users\ssuarez\source\repos\HandsOnTest\HandsOnTest.Configuration\bin\Debug\netcoreapp3.1\HandsOnTest.Configuration.dll
+C:\Users\ssuarez\source\repos\HandsOnTest\HandsOnTest.Configuration\bin\Debug\netcoreapp3.1\HandsOnTest.Configuration.pdb
+C:\Users\ssuarez\source\repos\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.AssemblyInfoInputs.cache
+C:\Users\ssuarez\source\repos\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.AssemblyInfo.cs
+C:\Users\ssuarez\source\repos\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\ssuarez\source\repos\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.dll
+C:\Users\ssuarez\source\repos\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.pdb
+C:\Users\ssuarez\Desktop\masglobal\HandsOnTest\HandsOnTest.Configuration\bin\Debug\netcoreapp3.1\HandsOnTest.Configuration.deps.json
+C:\Users\ssuarez\Desktop\masglobal\HandsOnTest\HandsOnTest.Configuration\bin\Debug\netcoreapp3.1\HandsOnTest.Configuration.dll
+C:\Users\ssuarez\Desktop\masglobal\HandsOnTest\HandsOnTest.Configuration\bin\Debug\netcoreapp3.1\HandsOnTest.Configuration.pdb
+C:\Users\ssuarez\Desktop\masglobal\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.csprojAssemblyReference.cache
+C:\Users\ssuarez\Desktop\masglobal\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.AssemblyInfoInputs.cache
+C:\Users\ssuarez\Desktop\masglobal\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.AssemblyInfo.cs
+C:\Users\ssuarez\Desktop\masglobal\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\ssuarez\Desktop\masglobal\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.dll
+C:\Users\ssuarez\Desktop\masglobal\HandsOnTest\HandsOnTest.Configuration\obj\Debug\netcoreapp3.1\HandsOnTest.Configuration.pdb
